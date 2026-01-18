@@ -1,7 +1,7 @@
-# My Cybersecurity Portfolio
+# My Cybersecurity Portfolio - Alif Danial Wong
 
 ## 1. About Me
-I am currently pursuing Master of Cybersecurity in University of Malaya with a focus on network defense and automation. My passion lies in creating topologies, configuring real devices (physical or in GNS3) as well as combining network engineering with Python scripting to create active defense tools and vulnerability analyzers similiar to SOAR. This passion laid its foundation when I was studying my Degree (also in University of Malaya) where a course was introduced "Network Technology Foundation", teaching basic routing and configurations.
+I am Alif Danial Wong, currently pursuing Master of Cybersecurity in University of Malaya with a focus on network defense and automation. My passion lies in creating topologies, configuring real devices (physical or in GNS3) as well as combining network engineering with Python scripting to create active defense tools and vulnerability analyzers similiar to SOAR. This passion laid its foundation when I was studying my Degree (also in University of Malaya) where a course was introduced "Network Technology Foundation", teaching basic routing and configurations.
 
 ## 2. Technical Skills
 * **Networking**: Cisco Packet Tracer (VLSM, OSPF, VLANs, ACLs), Static Routing, GNS3.
